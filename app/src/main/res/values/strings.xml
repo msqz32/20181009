@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CofferOrder</string>
+    <string name="nro_tazas">1</string>
+    <string name="ordenar">Ordering</string>
+</resources>
